@@ -6,7 +6,7 @@ Mesude Gürün Portfolio
 Hey there! I’m Mesude, a passionate industrial engineering student with a strong focus on production management, project planning, process optimization, and data analytics. I enjoy bringing technology into processes and making them work smarter and more efficiently. 🚀
 
 ## 🚀 Featured Projects
-- 🔧 [IE-Tech-Manufacturing-Company Optimization Model]/(https://github.com/mesudegrn/IE-tech-manufacturing-company)
+- 🔧 [IE-Tech-Manufacturing-Company Optimization Model](https://github.com/mesudegrn/IE-tech-manufacturing-company)
   This project presents a linear programming model designed for IE-Tech Manufacturing Company to optimize the production and sales of robotic kits and components. IE-Tech operates plants in İstanbul, Ankara, and İzmir, specializing in pre-assembled robotic kits and premium robotics components. The goal is to maximize profitability while managing constraints such as labor, packing, assembly capacities, material limits, and market demand.
 
 - 📊 [OliveGold Cooperative: Profit-Maximizing Olive Oil Production and Distribution Model](https://github.com/mesudegrn/Olivegold-Company-Transportation-Optimization-Model/tree/main)  
@@ -22,12 +22,6 @@ Hey there! I’m Mesude, a passionate industrial engineering student with a stro
 - Advanced Excel (Solver, Data Reporting)
 - Siemens NX
 - Project Management Tools (MS Project, Jira)
-
-## 🌍 Languages
-- Turkish 🇹🇷  
-- English 🇬🇧  
-- German 🇩🇪  
-- Italian 🇮🇹  
 
 ## 🎯 My Goals
 - To specialize in project management and production planning  
