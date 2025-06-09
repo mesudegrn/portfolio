@@ -7,12 +7,15 @@ Hey there! I’m Mesude, a passionate industrial engineering student with a stro
 
 ## 🚀 Featured Projects
 - 🔧 [IE-Tech-Manufacturing-Company Optimization Model](https://github.com/mesudegrn/IE-tech-manufacturing-company)
+
   This project presents a linear programming model designed for IE-Tech Manufacturing Company to optimize the production and sales of robotic kits and components. IE-Tech operates plants in İstanbul, Ankara, and İzmir, specializing in pre-assembled robotic kits and premium robotics components. The goal is to maximize profitability while managing constraints such as labor, packing, assembly capacities, material limits, and market demand.
 
 - 📊 [OliveGold Cooperative: Profit-Maximizing Olive Oil Production and Distribution Model](https://github.com/mesudegrn/Olivegold-Company-Transportation-Optimization-Model/tree/main)  
+
   This repository contains the linear programming optimization model developed for OliveGold Cooperative, a premium olive oil producer in Türkiye. The model aims to maximize profit while navigating supply constraints, production capacities, blending ratios, and export opportunities for both Extra Virgin Olive Oil (EV-OO) and Riviera Olive Oil (RV-OO).
 
 - 📈 [Cybersecurity Case Study: Comparative Analysis of Detection and Resolution Metrics in Company A and B](https://github.com/mesudegrn/statistical-comparison-between-cyber-defense-companies)  
+
   This repository presents an in-depth **statistical analysis of cyberattack-related detection and resolution times** for two companies, Company A and Company B, focusing on ransomware, DDoS, and phishing attacks. The analysis was conducted as part of the **IE266 course at METU Industrial Engineering Department**, leveraging weekly data from 36 organizations over 52 weeks.
 
 
