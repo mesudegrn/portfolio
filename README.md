@@ -31,7 +31,7 @@ Developed a specialized VBA-powered automation tool for UAV (Unmanned Aerial Veh
 - **Engineering & Process Tools:** ASD S100D, Business Process Management (BPM), MS Project, Jira
 
 ## 🎯 My Goals
-- To specialize in project management and production planning  
+- To specialize in project management and digital tranformation 
 - To lead innovative projects integrating technology into processes  
 - To contribute to global production and process improvement  
 
