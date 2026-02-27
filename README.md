@@ -9,7 +9,6 @@ Hey there! I’m Mesude, a passionate industrial engineering student with a stro
   
 
 - **📈 [Kizilay Shelter Systems: Embroidery Production Optimization with R](https://github.com/mesudegrn/kizilay-embroidery-opt)** Applied **Polynomial Regression** and **ANOVA** to identify the mathematical "sweet spot" for industrial embroidery machines. This project focuses on minimizing unit production time and error rates (thread breaks, needle failures) through statistical modeling. Includes predictive insights for humanitarian aid manufacturing cycles.  
-<img width="88.6" height="51.2" alt="e9faf6f8-9d8c-423b-8186-b7c7577b5d8c" src="https://github.com/user-attachments/assets/5b1c3209-a981-4baa-9fa5-e58daea9ca22" />
 
 
 - **🔧 [IE-Tech-Manufacturing-Company Optimization Model](https://github.com/mesudegrn/IE-tech-manufacturing-company)** A linear programming model designed for IE-Tech Manufacturing Company to optimize the production and sales of robotic kits and components across plants in İstanbul, Ankara, and İzmir. Maximizes profitability while managing labor, assembly, and material constraints.
