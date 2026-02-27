@@ -5,10 +5,13 @@ Hey there! I’m Mesude, a passionate industrial engineering student with a stro
 
 ## 🚀 Featured Projects
 
+- ** ✈️ [UAV Systems: S100D Data Module Code Generator for Systems Engineering](https://github.com/mesudegrn/S1000D_code_generator)**
+Developed a specialized VBA-powered automation tool for UAV (Unmanned Aerial Vehicle) systems engineering to streamline technical documentation and data management. This application utilizes dynamic dropdown menus to automate the generation of S100D compliant Data Module Codes (DMC) and SNS structures, eliminating manual entry errors. It serves as a bridge between complex system architecture and standardized technical publications, significantly reducing documentation lead times while ensuring 100% compliance with international aerospace standards.
+
 - **🧵 [Kizilay Shelter Systems: AI-Powered Production Predictor & Optimizer](https://github.com/mesudegrn/kizilay-ai-predictor)** Developed an interactive decision support system using **Streamlit** and **Machine Learning**. This application predicts embroidery production durations and daily capacities while providing dynamic optimization suggestions. It compares real-time manufacturing inputs with mathematically optimal parameters to identify efficiency gaps.  
   
 
-- **📈 [Kizilay Shelter Systems: Embroidery Production Optimization with R](https://github.com/mesudegrn/kizilay-embroidery-opt)** Applied **Polynomial Regression** and **ANOVA** to identify the mathematical "sweet spot" for industrial embroidery machines. This project focuses on minimizing unit production time and error rates (thread breaks, needle failures) through statistical modeling. Includes predictive insights for humanitarian aid manufacturing cycles.  
+- **📈 [Kizilay Shelter Systems: Embroidery Production Optimization with R](https://github.com/mesudegrn/embroidery_machine_efficiency_analysis)** Applied **Polynomial Regression** and **ANOVA** to identify the mathematical "sweet spot" for industrial embroidery machines. This project focuses on minimizing unit production time and error rates (thread breaks, needle failures) through statistical modeling. Includes predictive insights for humanitarian aid manufacturing cycles.  
 
 
 - **🔧 [IE-Tech-Manufacturing-Company Optimization Model](https://github.com/mesudegrn/IE-tech-manufacturing-company)** A linear programming model designed for IE-Tech Manufacturing Company to optimize the production and sales of robotic kits and components across plants in İstanbul, Ankara, and İzmir. Maximizes profitability while managing labor, assembly, and material constraints.
