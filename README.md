@@ -28,7 +28,7 @@ Developed a specialized VBA-powered automation tool for UAV (Unmanned Aerial Veh
 - **VBA & Advanced Excel:** Macro Automation, Custom UI Design, Power Query, Solver, Data Modeling
 - **R Programming:** Linear/Polynomial Regression, ANOVA, ggplot2, tidyverse
 - **Optimization:** Linear Programming, Decision Support Systems, Integer Programming
-- **Engineering & Process Tools:** ASD S100D, Business Process Management (BPM), MS Project, Jira
+- **Engineering & Process Tools:** ASD S100D, Project Management, Business Process Management (BPM), MS Project, Jira
 
 ## 🎯 My Goals
 - To specialize in project management and digital tranformation 
