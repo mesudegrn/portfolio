@@ -5,7 +5,7 @@ Hey there! I’m Mesude, a passionate industrial engineering student with a stro
 
 ## 🚀 Featured Projects
 
-- **📊 [BCG Strategic Simulation: Dual-Engine Financial Intelligence & AI Chatbot](https://github.com/yourusername/financial-intelligence-engine)**
+- **📊 [BCG Strategic Simulation: Dual-Engine Financial Intelligence & AI Chatbot](https://github.com/mesudegrn/financial-intelligence-engine)**
 Developed a hybrid **Financial Analysis** tool designed to replicate the rigorous quantitative and qualitative advisory standards of **BCG** (Boston Consulting Group). This application processes real-world SEC 10-K data (Apple, Microsoft, Tesla) using strict rule-based Pandas logic to calculate KPIs with 100% data integrity. To elevate the analytical depth, I integrated a state-of-the-art **LLM** using a **RAG** (Retrieval-Augmented Generation) architecture. The resulting interactive **AI chatbot** acts as a virtual senior consultant, instantly transforming raw numerical data into human-readable strategic insights, cross-company benchmarking, and executive-level trend evaluations without the risk of AI hallucination.
 
 
