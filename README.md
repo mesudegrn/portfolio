@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Mesude Gürün! 🌟
 
 ## 📍 Industrial Engineering Student @ Middle East Technical University (METU)
-Hey there! I’m Mesude, a passionate industrial engineering student with a strong focus on production management, project planning, process optimization, and data analytics. I enjoy bringing technology into processes and making them work smarter and more efficiently. 🚀
+Hey there! I’m Mesude, a passionate industrial engineering student with a strong focus on product management, project management, process optimization, digital transformation and data analytics. I enjoy bringing technology into processes and making them work smarter and more efficiently. 
 
 ## 🚀 Featured Projects
 
@@ -32,16 +32,17 @@ Developed a specialized VBA-powered automation tool for UAV (Unmanned Aerial Veh
 - **📈 [Cybersecurity Case Study: Comparative Analysis of Detection and Resolution Metrics](https://github.com/mesudegrn/statistical-comparison-between-cyber-defense-companies)** In-depth statistical analysis conducted as part of the **IE266 course at METU**. Leverages data from 3 organizatons to compare detection and resolution times for ransomware, DDoS, and phishing attacks.
 
 ## 🛠️ Tools & Technologies
-- **Python & AI:** TensorFlow, Computer Vision, Machine Learning, Streamlit, Scikit-learn, Pandas, NumPy, Pyomo
+- **Python & AI:** TensorFlow, XGBoost, Prophet, Computer Vision, Machine Learning, Streamlit, Scikit-learn, Pandas, NumPy, Pyomo
 - **VBA & Advanced Excel:** Macro Automation, Custom UI Design, Power Query, Solver, Data Modeling
 - **R Programming:** Linear/Polynomial Regression, ANOVA, ggplot2, tidyverse
 - **Optimization:** Linear Programming, Decision Support Systems, Integer Programming
 - **Engineering & Process Tools:** ASD S100D, Project Management, Business Process Management (BPM), MS Project, Jira
 
+
 ## 🎯 My Goals
-- To specialize in project management and digital tranformation 
-- To lead innovative projects integrating technology into processes  
-- To contribute to global production and process improvement  
+- To build a career in **Management Consulting** or **Product Management** within the technology and software sectors.
+- To act as a bridge between technical engineering capabilities and strategic business objectives.
+- To drive digital transformation and solve complex business problems using data-driven decision-making and optimization models.
 
 ## 📬 Contact
 - 📧 mesude.gurun@metu.edu.tr
