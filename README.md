@@ -5,6 +5,10 @@ Hey there! I’m Mesude, a passionate industrial engineering student with a stro
 
 ## 🚀 Featured Projects
 
+- **🏭 [ML-Powered Pre-Purchase Decision Matrix](https://github.com/mesudegrn/ML-powered-Pre-Purchase-Decision-Matrix)**
+Developed a Streamlit-based decision support system to protect supply chains from global commodity price volatility. By pulling real-time Producer Price Indices via the **FRED API**, the application runs walk-forward backtesting across 5 forecasting algorithms (ARIMA, XGBoost, Prophet, Random Forest, Holt-Winters) to predict next-quarter prices. It acts as a digital procurement strategist, balancing total warehouse capacity (m²) constraints against storage costs to mathematically recommend risk-free, profit-maximizing purchasing actions.
+
+
 - **📊 [BCG Strategic Simulation: Dual-Engine Financial Intelligence & AI Chatbot](https://github.com/mesudegrn/financial-intelligence-engine)**
 Developed a hybrid **Financial Analysis** tool designed to replicate the rigorous quantitative and qualitative advisory standards of **BCG** (Boston Consulting Group). This application processes real-world SEC 10-K data (Apple, Microsoft, Tesla) using strict rule-based Pandas logic to calculate KPIs with 100% data integrity. To elevate the analytical depth, I integrated a state-of-the-art **LLM** using a **RAG** (Retrieval-Augmented Generation) architecture. The resulting interactive **AI chatbot** acts as a virtual senior consultant, instantly transforming raw numerical data into human-readable strategic insights, cross-company benchmarking, and executive-level trend evaluations without the risk of AI hallucination.
 
